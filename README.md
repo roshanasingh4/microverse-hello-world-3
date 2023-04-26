@@ -78,6 +78,12 @@ Will be updated in a while
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> In this project, you will set up a "Hello world" project with best practices. No complex coding is required. The goal here is to master all of the tools and best practices.
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -114,8 +120,16 @@ You can run this project normally by opening the index.html file or using the li
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> In this project, you will set up a "Hello world" project with best practices. No complex coding is required. The goal here is to master all of the tools and best practices.
+
 > Describe 1 - 3 features you will add to the project.
 1. Will add further content
+2. Will design menu
+3. Will add more CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,6 +158,13 @@ If you like this project leave a star to the repository
 - What tech stack have you used to build the project
 
   - VANILLA HTML and CSS
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank my peers and my partners for their encouragment and support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
